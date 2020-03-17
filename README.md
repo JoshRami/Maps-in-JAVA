@@ -1,0 +1,1 @@
+<p>This repo contains some java challenges, in order to get into the Java World</p>
